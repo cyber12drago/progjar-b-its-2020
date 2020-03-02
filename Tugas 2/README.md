@@ -1,6 +1,8 @@
 # Tugas 2
 Nama: Muhammad Naufal Refadi
+
 NRP: 05111740000097
+
 Kelas: Progjar-B
 
 ##### 1. Capture hasil keluaran dari program udpfileclient.py ke alamat 127.0.0.1 ke port 5006
