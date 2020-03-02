@@ -1,7 +1,7 @@
 # Tugas 2
 Nama: Muhammad Naufal Refadi
- NRP: 05111740000097
- Kelas: Progjar-B
+NRP: 05111740000097
+Kelas: Progjar-B
 
 ##### 1. Capture hasil keluaran dari program udpfileclient.py ke alamat 127.0.0.1 ke port 5006
 * Pada file udpclient.py , modifikasilah TARGET_IP = "127.0.0.1" dan TARGET_PORT = 5006
