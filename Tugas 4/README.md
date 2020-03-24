@@ -4,6 +4,7 @@
 <br>
 ![Image description](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/Protokol.jpg)
 
+
 <h2>Cara Menjalankan</h2>
 1. Pertama jalankan server.py
 2. Lalu server.py akan melakukan request ke file person_machine.py. 
