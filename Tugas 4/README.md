@@ -1,6 +1,7 @@
 <h1>Tugas 4</h1>
 
 <h2>Protokol</h2>
+<br>
 ![Image description](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/Protokol.jpg)
 
 <h2>Cara Menjalankan</h2>
@@ -11,6 +12,7 @@
 
 a. FileAdd
 Respon yang didapat:
+<br>
 ![Image description](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/AddFile.jpg)
 
 hasil setelah dijalankan bisa dicek di folder "file
@@ -21,7 +23,7 @@ Respon yang didapat:
 ![Download](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/DownloadFile.jpg)
 
 hasil setelah dijalankan bisa dicek di root
-![HasilDownload](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/DownloadSetelahDijalankan.jpg")
+![HasilDownload](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/DownloadSetelahDijalankan.jpg)
 
 c. ListFile
 Respon yang didapat:
