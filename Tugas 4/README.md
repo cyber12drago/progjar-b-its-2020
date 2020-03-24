@@ -22,7 +22,7 @@ b. FileDownload
 Respon yang didapat:
 ![Download](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/DownloadFile.jpg)
 
-hasil setelah dijalankan bisa dicek di root
+hasil setelah dijalankan bisa dicek di folder root
 ![HasilDownload](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/DownloadSetelahDijalankan.jpg)
 
 c. ListFile
