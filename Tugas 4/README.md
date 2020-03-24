@@ -1,7 +1,7 @@
 <h1>Tugas 4</h1>
 
 <h2>Protokol</h2>
-![Protokol]("https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/Protokol.jpg")
+![Image description](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/Protokol.jpg)
 
 <h2>Cara Menjalankan</h2>
 1. Pertama jalankan server.py
