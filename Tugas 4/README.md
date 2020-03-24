@@ -1,8 +1,8 @@
 <h1>Tugas 4</h1>
 
-#### Protokol####
+## Protokol
 
-![Image description](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/AddFile.jpg)
+![Image description](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/Protokol.jpg)
 
 <h2>Cara Menjalankan</h2>
 1. Pertama jalankan server.py
@@ -31,7 +31,7 @@ Respon yang didapat:
 
 5. Setelah itu hasil request akan kembali ke person_machine.py dan kembali ke server
 
-<h2>Server</h2>
+## Server
 ![Server](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/Server.jpg)
 
 <h2>Cara Melakukan Request</h2>
