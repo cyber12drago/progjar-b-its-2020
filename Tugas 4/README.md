@@ -1,7 +1,7 @@
 <h1>Tugas 4</h1>
 
 <h2>Protokol</h2>
-![Protokol](img src="https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/Protokol.jpg" )
+![Protokol](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/Protokol.jpg)
 
 <h2>Cara Menjalankan</h2>
 1. Pertama jalankan server.py
@@ -18,7 +18,7 @@ hasil setelah dijalankan bisa dicek di folder "file
 
 b. FileDownload
 Respon yang didapat:
-![Download]("https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/DownloadFile.jpg" )
+![Download](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/DownloadFile.jpg)
 
 hasil setelah dijalankan bisa dicek di root
 ![HasilDownload]("https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/DownloadSetelahDijalankan.jpg")
