@@ -31,3 +31,6 @@ Respon yang didapat:
 
 <h2>Server</h2>
 <img src="Dokumentasi/server.JPG" >
+
+<h2>Cara Melakukan Request</h2>
+Untuk melakukan sebuah request, edit namafile terlebih dahulu di file client_add.py atau client_get.py sesuai dengan nama yang diinginkan.
