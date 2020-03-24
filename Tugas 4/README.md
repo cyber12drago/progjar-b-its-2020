@@ -1,7 +1,7 @@
 <h1>Tugas 4</h1>
 
 <h2>Protokol</h2>
-<img src="https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/Protokol.jpg" >
+![Protokol](img src="https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/Protokol.jpg" )
 
 <h2>Cara Menjalankan</h2>
 1. Pertama jalankan server.py
@@ -11,26 +11,26 @@
 
 a. FileAdd
 Respon yang didapat:
-<img src="https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/AddFile.jpg" >
+![Add](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/AddFile.jpg" )
 
 hasil setelah dijalankan bisa dicek di folder "file
-<img src="https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/AddSetelahDijalankan.jpg" >
+![HasilAdd]("https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/AddSetelahDijalankan.jpg")
 
 b. FileDownload
 Respon yang didapat:
-<img src="https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/DownloadFile.jpg" >
+![Download]("https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/DownloadFile.jpg" )
 
 hasil setelah dijalankan bisa dicek di root
-<img src="https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/DownloadSetelahDijalankan.jpg" >
+![HasilDownload]("https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/DownloadSetelahDijalankan.jpg")
 
 c. ListFile
 Respon yang didapat:
-<img src="https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/ListFile.jpg" >
+![ListFile]("https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/ListFile.jpg")
 
 5. Setelah itu hasil request akan kembali ke person_machine.py dan kembali ke server
 
 <h2>Server</h2>
-<img src="https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/Server.jpg" >
+![Server]("https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%204/Dokumentasi/Server.jpg" )
 
 <h2>Cara Melakukan Request</h2>
 Untuk melakukan sebuah request, edit namafile terlebih dahulu di file client_add.py atau client_get.py sesuai dengan nama yang diinginkan.
