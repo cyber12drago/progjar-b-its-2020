@@ -1,7 +1,7 @@
 <h1>Tugas 4</h1>
 
 <h2>Protokol</h2>
-<img src="Dokumentasi/protokol.JPG" >
+<img src="Dokumentasi/protokol.jpg" >
 
 <h2>Cara Menjalankan</h2>
 1. Pertama jalankan server.py
