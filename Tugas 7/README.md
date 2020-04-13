@@ -27,5 +27,5 @@ jalankan command "ab -n 100 -c 1,10,50,100 http://127.0.0.1:10001/"
 ## Hasil seluruh perfomance test dalam bentuk tabel
 
 
-![Image description](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%207/screenshot/test_3.jpg)
+![https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%207/screenshot/hasil_tabel.jpg)
 
