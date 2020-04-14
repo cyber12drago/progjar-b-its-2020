@@ -10,6 +10,12 @@
 
 ![Images description](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%206/Screenshots/http.jpg)
 
+## Melakukan request dengan telnet
+
+
+![Images description](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%206/Screenshots/telnet.jpg)
+
+
 
 ## Menjalankan request dari browser
 
