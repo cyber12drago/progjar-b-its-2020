@@ -7,11 +7,11 @@ from datetime import datetime
 class HttpServer:
 	def __init__(self):
 		self.sessions={}
-		#self.types={}
-		#self.types['.pdf']='application/pdf'
-		#self.types['.jpg']='image/jpeg'
-		#self.types['.txt']='text/plain'
-		#self.types['.html']='text/html'
+		self.types={}
+		self.types['.pdf']='application/pdf'
+		self.types['.jpg']='image/jpeg'
+		self.types['.txt']='text/plain'
+		self.types['.html']='text/html'
 	def response(self,kode=404,message='Not Found',messagebody='',headers={}):
 		tanggal = datetime.now().strftime('%c')
 		resp=[]

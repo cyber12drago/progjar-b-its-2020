@@ -1,4 +1,4 @@
-<h1>Tugas 7 Perfomance test</h1>
+<h1>Tugas 6</h1>
 
 ## Menjalankan server
 
