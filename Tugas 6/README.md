@@ -16,10 +16,12 @@
 
 ![Image description](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%206/Screenshots/google_chrome_127.jpg)
 
+## Inspect Network
+![Image description](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%206/Screenshots/network_respond.jpg)
+
 ## Hasil server saat menjalankan browser
 
 ![Image description](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%206/Screenshots/server_jalan_1.jpg)
 ![Image description](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%206/Screenshots/server_jalan_2.jpg)
 
-## Network Respond
-![Image description](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%206/Screenshots/server_jalan_2.jpg)
+
