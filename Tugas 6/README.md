@@ -18,6 +18,6 @@
 
 ## Hasil server saat menjalankan browser
 
-https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%206/Screenshots/server_jalan_1.jpg
-https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%206/Screenshots/server_jalan_2.jpg
+![Image description](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%206/Screenshots/server_jalan_1.jpg)
+![Image description](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%206/Screenshots/server_jalan_2.jpg)
 
