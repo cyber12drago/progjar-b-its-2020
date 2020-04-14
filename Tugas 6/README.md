@@ -21,3 +21,5 @@
 ![Image description](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%206/Screenshots/server_jalan_1.jpg)
 ![Image description](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%206/Screenshots/server_jalan_2.jpg)
 
+## Network Respond
+![Image description](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%206/Screenshots/server_jalan_2.jpg)
