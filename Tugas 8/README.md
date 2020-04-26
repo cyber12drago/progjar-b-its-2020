@@ -10,4 +10,4 @@
 
 ## Hasil isi form
 
-![3](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%208/screenshot/HasilForm.jpg)
+![3](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%208/screenshot/HasilIsiForm.jpg)
