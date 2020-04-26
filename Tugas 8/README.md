@@ -2,12 +2,12 @@
 
 ## Membuka page http://127.0.0.1:10002/sending.html
 
-![1](screenshots/ai)
+![1](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%208/screenshot/MembukaHalaman.jpg)
 
 ## Memasukkan input kedalam form
 
-![2](screenshots/ai)
+![2](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%208/screenshot/MemasukkanInput.jpg)
 
-## Hasil submit form
+## Hasil isi form
 
-![3](screenshots/ai)
+![3](https://github.com/cyber12drago/progjar-b-its-2020/blob/master/Tugas%208/screenshot/HasilForm.jpg)
